@@ -1,5 +1,5 @@
 // main file code
-const symbol = document.querySelector('.container i');
+const symbol = document.querySelector(".container i");
 const images = document.querySelectorAll('.image-container img');
 
 images.forEach((img) => {
